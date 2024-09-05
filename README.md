@@ -1,1 +1,2 @@
-- This is just train dataset given by make_moons(sklearn) by Neural Network using Tensorflow
+# This is just a training process by Neural Network using Tensorflow with a dataset given by make_moons
+
