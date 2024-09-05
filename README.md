@@ -1,1 +1,1 @@
-# TrainNN_with_tensorflow
+- This is just train dataset given by make_moons(sklearn) by Neural Network using Tensorflow
